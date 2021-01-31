@@ -4,6 +4,9 @@ This is a command line python script to download youtube videos & playlist. Made
 Working on a GUI version
 
 ### Usage
+Install required libraries<br>
+`pip install pyfiglet pytube`
+
 - #### For Unix based systems
     1. Create a `.scripts` folder in your home directory 
     2. Add the script inside this folder & rename it to youtube.py
